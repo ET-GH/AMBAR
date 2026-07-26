@@ -1,0 +1,9 @@
+/Users/ethantassin/GroundStation/build/Qt_6_11_1_for_macOS-Release/CMakeFiles/GroundStation.dir
+/Users/ethantassin/GroundStation/build/Qt_6_11_1_for_macOS-Release/CMakeFiles/edit_cache.dir
+/Users/ethantassin/GroundStation/build/Qt_6_11_1_for_macOS-Release/CMakeFiles/rebuild_cache.dir
+/Users/ethantassin/GroundStation/build/Qt_6_11_1_for_macOS-Release/CMakeFiles/list_install_components.dir
+/Users/ethantassin/GroundStation/build/Qt_6_11_1_for_macOS-Release/CMakeFiles/install.dir
+/Users/ethantassin/GroundStation/build/Qt_6_11_1_for_macOS-Release/CMakeFiles/install/local.dir
+/Users/ethantassin/GroundStation/build/Qt_6_11_1_for_macOS-Release/CMakeFiles/install/strip.dir
+/Users/ethantassin/GroundStation/build/Qt_6_11_1_for_macOS-Release/CMakeFiles/GroundStation_autogen_timestamp_deps.dir
+/Users/ethantassin/GroundStation/build/Qt_6_11_1_for_macOS-Release/CMakeFiles/GroundStation_autogen.dir

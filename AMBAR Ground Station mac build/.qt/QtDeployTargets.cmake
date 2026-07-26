@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_GroundStation_FILE /Users/ethantassin/GroundStation/build/Qt_6_11_1_for_macOS-Release/GroundStation.app/Contents/MacOS/GroundStation)
+set(__QT_DEPLOY_TARGET_GroundStation_TYPE EXECUTABLE)
